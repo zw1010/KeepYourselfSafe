@@ -1,5 +1,9 @@
 # KeepYourselfSafe
-Suicide Thought Predictor
+**Suicide Thought Predictor**
+This project is created to explore how different models perform on predicting suicide which is a worsening issue.
+We attempt to achieve the optimal result by tuning hyperparameters manually or by methods such as grid search.
+The optimal result is defined as having as little false negatives (Suicidal text predicted as non-suicidal text),
+while not having too much false positives as it will require high manpower to sustain such a solution.
 <br/>
 <br/>
 <br/>
