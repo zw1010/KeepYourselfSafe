@@ -7,8 +7,20 @@ while not having too much false positives as it will require high manpower to su
 <br/>
 <br/>
 <br/>
+**Data**<br/>
+https://www.kaggle.com/code/abhijitsingh001/suicidal-thought-detection/notebook
+<br/>
+<br/>
+<br/>
+**Models**<br/>
+- Naive Bayes
+- LSTM
+- Logistic Regression
+- Gradient Boosting Machine
+<br/>
+<br/>
+<br/>
 **Contributions**
-
 Yeoh Zhe Wei
 - (Data Preperation) Add space to some camel cased words
 - (Data Preperation) Convert Emojis into Text
