@@ -15,6 +15,7 @@ Yeoh Zhe Wei
 - (Data Preperation) Lowercase alphabets
 - (Data Preperation) Remove Punctuations
 - (Models & Evaluation) Naive Bayes
+- (Models & Evaluation) LSTM
 
 Yong Kiong Lu
 - (Data Preperation) Lemmitization
