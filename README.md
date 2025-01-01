@@ -10,6 +10,7 @@ while not having too much false positives as it will require high manpower to su
 **Data**<br/>
 https://www.kaggle.com/code/abhijitsingh001/suicidal-thought-detection/notebook
 <br/>
+<br/>
 **Models**<br/>
 - Naive Bayes
 - LSTM
