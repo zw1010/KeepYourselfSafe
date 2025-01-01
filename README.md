@@ -20,7 +20,7 @@ https://www.kaggle.com/code/abhijitsingh001/suicidal-thought-detection/notebook
 <br/>
 <br/>
 <br/>
-**Contributions**
+**Contributions**<br/>
 Yeoh Zhe Wei
 - (Data Preperation) Add space to some camel cased words
 - (Data Preperation) Convert Emojis into Text
